@@ -1,0 +1,42 @@
+{
+  "name": "ajonp-ajsbooks-nextjs",
+  "version": "1.0.0",
+  "description": "next js with material ui and firebase",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs.git"
+  },
+  "keywords": [
+    "nextjs",
+    "firebase",
+    "rxfire",
+    "rxjs",
+    "material-ui"
+  ],
+  "author": "Jeremy Black (based on tutorial by AJonP)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs/issues"
+  },
+  "homepage": "https://github.com/AJONPLLC/ajonp-ajsbooks-nextjs#readme",
+  "dependencies": {
+    "@material-ui/styles": "^4.9.10",
+    "firebase": "^7.14.2",
+    "next": "^9.3.5",
+    "nextjs": "0.0.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "rxfire": "^3.12.2",
+    "rxjs": "^6.5.5"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.34",
+    "typescript": "^3.8.3"
+  }
+}
